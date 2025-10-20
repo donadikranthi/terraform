@@ -3,9 +3,9 @@ variable "instances" {
 }
 
 variable "zone_id" {
-    default = "Z0948150OFPSYTNVYZOY"
+    default = "Z04572451B9X32T33PSC8"
 }
 
 variable "domain_name" {
-    default = "daws86s.fun"
+    default = "kranthi.fun"
 }
