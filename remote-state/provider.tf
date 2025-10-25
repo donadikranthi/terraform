@@ -8,7 +8,7 @@ terraform{
 
 
 backend "s3" {
-  bucket = "kranthi-remote-state"
+  bucket = "remote-state-kranthi"
   key    = "kranthi-remote-demo"
   region = "us-east-1"
   use_lockfile = true
